@@ -1,0 +1,4 @@
+Resolusi 2024
+- Sudah memahami dasar React
+- Sudah memiliki koleksi parfum Aquatic
+- Memiliki tabungan sebesar 40 juta
